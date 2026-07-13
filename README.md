@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/harbhajan-guru/harbhajan-guru/main/banner.png" alt="Harbhajan Singh Guru Banner" width="100%">
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/harbhajan-guru/harbhajan-guru/main/banner.png" alt="Harbhajan Singh Guru Banner" width="100%">
 </p>
 
 <div align="center">

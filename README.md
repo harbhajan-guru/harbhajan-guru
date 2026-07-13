@@ -1,100 +1,125 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+ML+Projects;Open+to+AI%2FML+Internships" />
-</p>
-
+<div align="center">
 
 # Hi 👋, I'm Harbhajan Singh Guru
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+ML+Projects;Open+to+AI%2FML+Internship+Opportunities" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,fastapi,mysql" />
-</p>
+### 🚀 B.Tech CSE Student | AI & ML Enthusiast | Data Science Learner
 
+</div>
 
-## 🚀 AI & Machine Learning Enthusiast
+---
 
-🎓 B.Tech Computer Science Engineering Student
+## 👨‍💻 About Me
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science and Full-Stack AI Applications.
+- 🎓 B.Tech Computer Science Engineering Student
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **Deep Learning, FastAPI, Docker & MLOps**
+- 💼 Looking for **AI/ML Internship Opportunities**
+- 🎯 Goal: Build production-ready AI applications
 
-🌱 Currently Learning
-- Machine Learning
-- Deep Learning
-- Data Science
-- FastAPI
-- Streamlit
-- Docker
-- Git & GitHub
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- SQL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi,docker,mysql,sqlite,linux" />
+</p>
 
-**Libraries**
+### Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn
 - XGBoost
 
-**Tools**
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
-- Streamlit
-- FastAPI
-- Docker
+---
 
 ## 🚀 Featured Projects
 
-### 📌 Predictive Customer Churn Model
-- End-to-end ML pipeline
-- Logistic Regression
-- Random Forest
-- XGBoost
-- SHAP Explainability
-- Streamlit + FastAPI
+### 📌 ConnectTel Customer Churn Prediction
+✔ End-to-End Machine Learning Pipeline  
+✔ Logistic Regression, Random Forest & XGBoost  
+✔ SHAP Explainability  
+✔ FastAPI + Streamlit Deployment
+
+🔗 Repository:
+https://github.com/harbhajan-guru/connecttel-churn-app
+
+---
 
 ### 📈 Stock Market Price Prediction
-- Data Analysis
-- Visualization
-- Machine Learning
-- Interactive Graphs
+
+✔ Data Analysis  
+✔ Machine Learning  
+✔ Interactive Visualizations
+
+🔗 Repository:
+https://github.com/harbhajan-guru/Stock-Market-Price-Prediction
+
+---
 
 ## 📜 Certifications
 
 - Google Cloud – Introduction to Image Generation
-- Google AI Certificates
+- Google AI Learning Certificates
 - Simplilearn SkillUp
 - Data Analytics Certifications
 
-## 🎯 Goals for 2026
-
-- ✅ AI/ML Internship
-- ✅ Build Production ML Applications
-- ✅ Open Source Contributions
-- ✅ Strong GitHub Portfolio
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/harbhajan-guru
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-
-⭐ Thanks for visiting my profile!
-
-
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harbhajan-guru&show_icons=true&theme=tokyonight)
+<p align="center">
 
-## 💻 Most Used Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harbhajan-guru&show_icons=true&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan-guru&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan-guru&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harbhajan-guru&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=harbhajan-guru&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ AI/ML Internship
+- ✅ Build Production-Level AI Applications
+- ✅ Open Source Contributions
+- ✅ Kaggle Competitions
+- ✅ Strong GitHub Portfolio
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/harbhajan-guru">
+GitHub
+</a> •
+<a href="YOUR_LINKEDIN_URL">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
+
+</div>

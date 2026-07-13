@@ -108,7 +108,7 @@ https://github.com/harbhajan-guru/Stock-Market-Price-Prediction
 <a href="https://github.com/harbhajan-guru">
 GitHub
 </a> •
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/harbhajan-guru">
 LinkedIn
 </a>
 

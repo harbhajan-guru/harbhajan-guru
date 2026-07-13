@@ -180,7 +180,7 @@ https://github.com/harbhajan-guru/Stock-Market-Price-Prediction
 
 <p align="center">
 
-<a href="www.linkedin.com/in/harbhajan-guru">
+<a href="https://www.linkedin.com/in/harbhajan-guru">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

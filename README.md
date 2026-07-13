@@ -1,4 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+ML+Projects;Open+to+AI%2FML+Internships" />
+</p>
+
+
 # Hi 👋, I'm Harbhajan Singh Guru
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,fastapi,mysql" />
+</p>
+
 
 ## 🚀 AI & Machine Learning Enthusiast
 
@@ -73,3 +84,17 @@
 - LinkedIn: *(Add your LinkedIn profile URL here)*
 
 ⭐ Thanks for visiting my profile!
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harbhajan-guru&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan-guru&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harbhajan-guru&theme=tokyonight)
